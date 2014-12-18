@@ -1,23 +1,25 @@
 {
-  "name": "gulp-s3",
-  "version": "0.3.0",
-  "description": "A plugin for Gulp that uploads files to s3",
+  "name": "gulp-s3-util",
+  "version": "0.3.2",
+  "description": "A plugin for Gulp that provides AWS s3 utilities.",
   "keywords": [
     "gulpplugin",
     "gulp",
-    "s3"
+    "s3",
+    "aws",
+    "cdn"
   ],
-  "homepage": "https://github.com/nkostelnik/gulp-s3",
-  "bugs": "https://github.com/nkostelnik/gulp-s3/issues",
+  "homepage": "https://github.com/michaelerobertsjr/gulp-s3-util",
+  "bugs": "https://github.com/michaelerobertsjr/gulp-s3-util/issues",
   "author": {
-    "name": "Nicholas Kostelnik",
+    "name": "Michael Roberts Jr",
     "email": "",
-    "url": "https://github.com/nkostelnik"
+    "url": "https://github.com/michaelerobertsjr"
   },
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nkostelnik/gulp-s3.git"
+    "url": "git://github.com/michaelerobertsjr/gulp-s3-util.git"
   },
   "scripts": {
     "test": "mocha"
@@ -39,8 +41,7 @@
   },
   "licenses": [
     {
-      "type": "MIT",
-      "url": "https://github.com/nkostelnik/gulp-s3/blob/master/LICENSE"
+      "type": "MIT"
     }
   ]
 }
