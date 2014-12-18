@@ -1,4 +1,4 @@
-# gulp-s3 [![NPM version][npm-image]][npm-url]
+# gulp-s3-util [![NPM version][npm-image]][npm-url]
 
 > s3 plugin for [gulp](https://github.com/wearefractal/gulp)
 
