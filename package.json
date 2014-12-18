@@ -1,6 +1,6 @@
 {
   "name": "gulp-s3-util",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "A plugin for Gulp that provides AWS s3 utilities.",
   "keywords": [
     "gulpplugin",
