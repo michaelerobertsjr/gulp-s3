@@ -2,6 +2,9 @@
 
 > s3 plugin for [gulp](https://github.com/wearefractal/gulp)
 
+## What can it do?
+Use it to create a CDN for your website. Currently it copies files from a local destination to your AWS s3 bucket. Other updates and features are planned.
+
 ## Usage
 
 First, install `gulp-s3-util` as a development dependency:
