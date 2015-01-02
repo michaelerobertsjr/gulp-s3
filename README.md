@@ -99,4 +99,4 @@ gulp.src('./dist/**')
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
 
 [npm-url]: https://npmjs.org/package/gulp-s3-util
-
+[npm-image]: https://badge.fury.io/js/gulp-s3-util.svg
