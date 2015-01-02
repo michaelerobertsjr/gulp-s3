@@ -1,4 +1,4 @@
-# gulp-s3-util [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://github.com/michaelerobertsjr/gulp-s3-util)
+# gulp-s3-util [![npm version](http://img.shields.io/npm/v/gh-badges.svg)](https://www.npmjs.com/package/gulp-s3-util) [![build status](http://img.shields.io/travis/badges/shields.svg)](https://travis-ci.org/michaelerobertsjr/gulp-s3-util)
 
 > s3 plugin for [gulp](https://github.com/wearefractal/gulp)
 
